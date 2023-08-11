@@ -1,0 +1,179 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap");
+
+html > body {
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 400;
+}
+
+.con {
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  width: 1280px;
+}
+
+ul li {
+  list-style-type: none;
+}
+/*탑바*/
+.top-bar {
+  padding-left: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  align-content: center;
+  background-color: white;
+  stroke-width: 1px;
+}
+.top-bar > ul {
+}
+
+.top-bar > ul > .top-bar-logo {
+  font-size: 30px;
+  padding-right: 150px;
+  font-weight: 700;
+}
+.top-bar > ul > .top-bar-f1 {
+  font-size: 16px;
+  padding-top: 10px;
+  padding-right: 70px;
+}
+.top-bar > ul > .top-bar-f2 {
+  font-size: 16px;
+  padding-top: 10px;
+  padding-right: 70px;
+}
+.top-bar > ul > .top-bar-f3 {
+  font-size: 16px;
+  padding-top: 10px;
+  padding-right: 70px;
+}
+.box-1 {
+  border-bottom: 1px solid #000;
+}
+.box-1_1 {
+  width: 1280px;
+  height: 2700px;
+}
+
+.box-1_1 > .text-1 {
+  display: absolute;
+  font-size: 48px;
+  font-weight: 700;
+  top: 171px;
+  left: 100px;
+}
+
+.box-1_1 > .text-2 {
+  position: absolute;
+  top: 361px;
+  left: 100px;
+}
+.box-1_1 > .img-1 {
+  top: 146px;
+  left: 580px;
+}
+
+.box-1_1 > .img-2 {
+  top: 655px;
+}
+.box-1_1 > .img-3 {
+  top: 935px;
+  left: 160px;
+}
+.box-1_1 > .img-4 {
+  top: 971px;
+  left: 820px;
+}
+.box-1_1 > .img-5 {
+  top: 1095px;
+  left: 840px;
+}
+.box-1_1 > .img-6 {
+  top: 1535px;
+  left: 410px;
+}
+.box-1_1 > .img-7 {
+  top: 1602px;
+  left: 454px;
+}
+.box-1_1 > .img-8 {
+  top: 1720px;
+  left: 353px;
+}
+.box-1_1 > .img-9 {
+  top: 2288px;
+  left: 120px;
+}
+.box-1_1 > .img-10 {
+  top: 2388px;
+  left: 190px;
+}
+.box-1_1 > .img-11 {
+  top: 2531px;
+  left: 190px;
+}
+.box-1_1 > .img-12 {
+  top: 2508px;
+  left: 0px;
+}
+.box-1_1 > .img-13 {
+  top: 2448px;
+  left: 280px;
+}
+
+.box-1_1 > .img-14 {
+  top: 2448px;
+  left: 365px;
+}
+.box-1_1 > .img-15 {
+  top: 2448px;
+  left: 505px;
+}
+.box-1_1 > .img-16 {
+  top: 2454px;
+  left: 590px;
+}
+
+/* 푸터바 */
+
+.footerbox {
+  min-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-stroke {
+  margin-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.footer-logo {
+  font-size: 30px;
+  padding-right: 0px;
+  font-weight: 700;
+  padding-right: 150px;
+}
+
+.footer-logo-1 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #4d5053;
+}
+
+.footer-logo-2 {
+  font-size: 11px;
+  font-weight: 700;
+  color: #4d5053;
+}
+
+.footer-f1 {
+  font-size: 13px;
+  padding-top: 10px;
+  padding-right: 70px;
+  color: #4d5053;
+}
